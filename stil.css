@@ -1,0 +1,127 @@
+body {
+    background-color: black;
+  
+}
+
+p {
+    color: chartreuse;
+}
+
+.searchIcon {
+    height: 25px;
+    width: 25px;
+}
+
+.inputSearch {
+    background-color: grey;
+}
+
+.butonSearch {
+    background-color: chartreuse;
+    color: white;
+    border-radius: 7px;
+    
+}
+
+.searchDiv {
+    
+    
+}
+
+.menuButton {
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+.menuButton:active {
+    background-color: chartreuse;
+}
+
+.topnav {
+    display: block;
+    height: 30px;
+    background-color: grey;
+}
+
+.bandaTitlu {
+    display: block;
+    height: 30px;
+    background-color: chartreuse;
+}
+
+.bandaTitlu > p {
+    color: gray;
+}
+
+.reclamaMare > img {
+    height: 200px;
+    width: 150px;
+}
+
+.reclamaMare {
+   width: 75%;
+    display: flex;
+    background-color: gray;
+}
+
+.palb {
+    color: white;
+}
+
+.bandaTitlu2 {
+    display: block;
+    height: 30px;
+    background-color: chartreuse;
+}
+
+.bandaTitlu2 > h3 {
+    color: grey;
+}
+
+.pozeanime {
+    width: 150px;
+    height: 150px;
+}
+
+.listaPoze {
+    display: flex;
+    padding: 5px;
+    width: 75%;
+}
+
+.listaScris {
+    display: flex;
+    
+}
+
+.listaPozeScris {
+    width: 75%;
+    
+}
+
+.y {
+    display: flex;
+    
+}
+
+.reportaudio {
+    background-color: chartreuse;
+    color: grey;
+}
+
+.ongoingseries {
+    background-color: chartreuse;
+    color: grey;
+}
+
+.chenarjos {
+    display: flex;
+}
+
+
+
+
+
+
+
+
